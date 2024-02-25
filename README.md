@@ -14,5 +14,5 @@ The final product was a video that contains several virtual object models as if 
 
 
 
-![vis](https://user-images.githubusercontent.com/89912646/215112938-085c7af6-54d3-4d47-b9a6-2b8244e2b0b1.png)
 ![VR_res](https://user-images.githubusercontent.com/89912646/215115371-73025e9d-916c-4640-8fbe-e9d2263f3355.gif)
+![vis](https://user-images.githubusercontent.com/89912646/215112938-085c7af6-54d3-4d47-b9a6-2b8244e2b0b1.png)
